@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+
+palindrom_auth.py
+
 __pycache__/
 *.py[cod]
 *$py.class
